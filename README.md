@@ -14,6 +14,4 @@ Model deployments
 
 
 ## Contribution guide
-The demo spike should be in a repo which anyone can clone and get up and running within 1-2 commands (and maybe an additional manual step to sign up for accounts / download credentials). As such, it should contain the following:
-- A clear README with instructions for setting up and running stuff
-- If setup involves a few steps, a shell script for setting up
+The demo spike should be in a repo which anyone can clone and get up and running within 1-2 commands. You can use this template: https://github.com/davified/data-spike-template
